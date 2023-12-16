@@ -14,7 +14,7 @@ const quizData = [
     {
         question: "Who directed the movie 'Inception'?",
         a: "Christopher Nolan",
-        b: "Quentin Tarantino",
+        b: "Mallu Traveller",
         c: "Steven Spielberg",
         d: "Martin Scorsese",
         correct: "a"
